@@ -63,7 +63,7 @@ nav {
   border-radius: 5px;
 }
 
-.cards-botton {
+.txt-btn{
   border: none;
   border-radius: 50px;
   background-color: #EFEFEF;
@@ -71,9 +71,9 @@ nav {
   padding-right: 14px;
   font-size: 13px;
   margin-top: 7px;
-}
+} 
 
-.card-peoject {
+ .card-peoject {
   box-shadow: 5px 5px 10px 0px #0000001A;
   border-radius: 12px;
   width: 385px;
